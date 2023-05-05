@@ -47,4 +47,8 @@ git push
 ```
 + Отримали наступний результат
 ![](s8.png)
+
++ Висновок
+
+У лабораторній роботі навчилися працювати з git та GitHub. Було створено новий профіль в GitHub та оформлено. Встановили CHOCOLATEY та git з його допомогою. Під'єднали git та GitHub, вивантажи локальний репозиторій з основною інформацією про власника
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=THE+END)
